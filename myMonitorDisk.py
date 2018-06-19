@@ -20,7 +20,7 @@ def monitorDiskPctUsed():
 
 
 def sendMail(p_to_addr,p_title,p_msg):
-    v_from_addr = 'maintain1@comodin.cn'
+    v_from_addr = 'mymaintain@comodin.cn'
 
     smtp_server = 'smtp.exmail.qq.com'
     password = 'Mypassword520'
